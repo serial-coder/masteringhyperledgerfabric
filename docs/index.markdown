@@ -1,11 +1,20 @@
+---
+# Feel free to add content and custom Front Matter to this file.
+# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
-Book: Mastering Hyperledger Fabric
-==========
-## Master The Art of Hyperledger Fabric using docker-compose, docker swarm and kubernetes
-<img align="center" width="850" src="docs/images/bookcover.jpg">
+layout: home
+---
+<img align="center" width="850" src="./images/bookcover.jpg">
+
+## Master The Art of Hyperledger Fabric using docker-compose, docker swarm and Kubernetes Container Orchestrator
+<iframe src="https://ghbtns.com/github-btn.html?user=narendranathreddythota&repo=masteringhyperledgerfabric&type=star&count=true&size=large" frameborder="0" scrolling="0" width="170" height="30" title="GitHub"></iframe>
+<iframe src="https://ghbtns.com/github-btn.html?user=narendranathreddythota&repo=masteringhyperledgerfabric&type=fork&count=true&size=large" frameborder="0" scrolling="0" width="170" height="30" title="GitHub"></iframe>
+<iframe src="https://ghbtns.com/github-btn.html?user=narendranathreddythota&type=follow&count=true&size=large" frameborder="0" scrolling="0" width="350" height="30" title="GitHub"></iframe>
 <hr>
-Buy Now: <a target="_blank" href="https://www.amazon.in/gp/product/B084KZP9M7/ref=as_li_tl?ie=UTF8&camp=3638&creative=24630&creativeASIN=B084KZP9M7&linkCode=as2&tag=nnrthota-21&linkId=387013b439762ddae904df0dcb10e465">Mastering Hyperledger Fabric: Master The Art of Hyperledger Fabric on Kubernetes</a><img src="//ir-in.amazon-adsystem.com/e/ir?t=nnrthota-21&l=am2&o=31&a=B084KZP9M7" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
+<br>
+<iframe align="right" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-in.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=IN&source=ac&ref=qf_sp_asin_til&ad_type=product_link&tracking_id=nnrthota-21&marketplace=amazon&region=IN&placement=B084KZP9M7&asins=B084KZP9M7&linkId=5f273a45f1c4c81962e550d92733c45d&show_border=true&link_opens_in_new_window=true&price_color=333333&title_color=0066c0&bg_color=ffffff">
+    </iframe>
 ***Key Features***
 <ul>
 <li>Detailed Explanation of One way TLS and mutual TLS</li>
@@ -24,7 +33,6 @@ Buy Now: <a target="_blank" href="https://www.amazon.in/gp/product/B084KZP9M7/re
 <li>Logging consortium with ELK/EFK stack</li>
 <li>Some interesting open-source tools and some Bonus concepts</li>
 </ul>
-
 
 ***Table of Contents***
 <ol>
@@ -55,12 +63,18 @@ Buy Now: <a target="_blank" href="https://www.amazon.in/gp/product/B084KZP9M7/re
 # Testimonials
 
 ## United States of America:
-<img align="center" width="850" src="./docs/images/customer1.png">
+<img align="center" width="850" src="./images/customer1.png">
 <hr>
 
 ## International (Europe):
-<img align="center" width="850" src="./docs/images/customer2.png">
+<img align="center" width="850" src="./images/customer2.png">
 <hr>
 
 ## India:
-<img align="center" width="850" src="./docs/images/customer3.png">
+<img align="center" width="850" src="./images/srinivas.png">
+
+## India:
+<img align="center" width="850" src="./images/customer3.png">
+
+## India:
+<img align="center" width="850" src="./images/abhishek.png">
